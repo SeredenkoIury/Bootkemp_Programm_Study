@@ -1,0 +1,15 @@
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\bin\Debug\net6.0\Lesson1_FirstLesson.exe
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\bin\Debug\net6.0\Lesson1_FirstLesson.deps.json
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\bin\Debug\net6.0\Lesson1_FirstLesson.runtimeconfig.json
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\bin\Debug\net6.0\Lesson1_FirstLesson.dll
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\bin\Debug\net6.0\Lesson1_FirstLesson.pdb
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\Lesson1_FirstLesson.csproj.AssemblyReference.cache
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\Lesson1_FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\Lesson1_FirstLesson.AssemblyInfoInputs.cache
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\Lesson1_FirstLesson.AssemblyInfo.cs
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\Lesson1_FirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\Lesson1_FirstLesson.dll
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\refint\Lesson1_FirstLesson.dll
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\Lesson1_FirstLesson.pdb
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\Lesson1_FirstLesson.genruntimeconfig.cache
+C:\Users\iuryk\Desktop\Bootkemp_Programm_Study\Lesson1_FirstLesson\obj\Debug\net6.0\ref\Lesson1_FirstLesson.dll
